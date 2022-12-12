@@ -7,7 +7,7 @@ Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre 
 
 
 
-# Site..
+# Site
 
 1- https://aleph.occrp.org/
 2- 
