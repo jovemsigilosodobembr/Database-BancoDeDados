@@ -9,5 +9,9 @@ Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre 
 
 # Site
 
-1- https://aleph.occrp.org/
+1- https://aleph.occrp.org/ 
+"OCCRP Aleph é uma plataforma de dados investigativos que ajuda os repórteres a seguir o dinheiro . Oferecemos acesso público a um vasto arquivo de registros governamentais e bancos de dados abertos. No entanto, grande parte do arquivo Aleph é protegido do acesso público devido a preocupações com a proteção de dados. O OCCRP concede acesso a jornalistas e ativistas caso a caso (veja abaixo).
+
+O Aleph é mais do que apenas um buscador de documentos: ele também importa dados estruturados de planilhas e bancos de dados, permitindo que jornalistas explorem dados detalhados sobre pessoas de interesse, empresas, transações financeiras e muito mais. Repórteres e pesquisadores podem enviar seus próprios arquivos para investigações privadas, extrair texto, esboçar um diagrama, resumir suas descobertas investigativas e fazer referências cruzadas a pessoas de interesse e empresas."
+
 2- 
