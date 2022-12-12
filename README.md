@@ -19,4 +19,6 @@ Aleph contém material de uma ampla gama de fontes . Estamos focados na coleta d
 
 Nosso foco geográfico é na Europa Central e Oriental, África Subsaariana, América do Sul e várias jurisdições offshore. O arquivo é construído em conjunto com nossas histórias. Frequentemente, coletamos ou indexamos material relacionado a investigações em andamento."
 
-2- 
+2- https://intelx.io/
+
+3- https://archive.org/
