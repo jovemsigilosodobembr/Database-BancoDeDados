@@ -20,5 +20,13 @@ Aleph contém material de uma ampla gama de fontes . Estamos focados na coleta d
 Nosso foco geográfico é na Europa Central e Oriental, África Subsaariana, América do Sul e várias jurisdições offshore. O arquivo é construído em conjunto com nossas histórias. Frequentemente, coletamos ou indexamos material relacionado a investigações em andamento."
 
 2- https://intelx.io/
+("A Intelligence X é uma empresa europeia independente de tecnologia fundada em 2018 por Peter Kleissner. A empresa está sediada em Praga, República Tcheca. Sua missão é desenvolver e manter o mecanismo de busca e o arquivo de dados.
+O Intelligence X se diferencia de outros mecanismos de pesquisa de maneiras exclusivas:
+A pesquisa funciona com seletores, ou seja, termos de pesquisa específicos, como endereços de e-mail, domínios, URLs, IPs, CIDRs, endereços Bitcoin, hashes IPFS, etc.
+Ele pesquisa em locais como darknet, plataformas de compartilhamento de documentos, dados whois, vazamentos de dados públicos e outros.
+Ele mantém um arquivo de dados históricos de resultados, semelhante a como o Wayback Machine do archive.org armazena cópias históricas de sites.
+Nossos clientes-alvo são empresas de todos os tamanhos e governos. Entre em contato conosco para obter planos individuais que atendam às necessidades de sua organização.
+Você pode usar o Intelligence X para executar qualquer tipo de inteligência de código aberto. Entregamos resultados rápidos e de alta qualidade e tornamos as partes mais profundas da internet acessíveis com apenas alguns cliques. O Intelligence X pesquisa bilhões de seletores em questão de milissegundos. Combinado com nosso arquivo de dados, esta é uma nova ferramenta poderosa. Aqui estão alguns exemplos do poder da Inteligência X:")
+
 
 3- https://archive.org/
