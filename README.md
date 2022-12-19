@@ -10,14 +10,14 @@ Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre 
 # Site
 
 1- https://aleph.occrp.org/ 
-"OCCRP Aleph é uma plataforma de dados investigativos que ajuda os repórteres a seguir o dinheiro . Oferecemos acesso público a um vasto arquivo de registros governamentais e bancos de dados abertos. No entanto, grande parte do arquivo Aleph é protegido do acesso público devido a preocupações com a proteção de dados. O OCCRP concede acesso a jornalistas e ativistas caso a caso (veja abaixo).
+***"OCCRP Aleph é uma plataforma de dados investigativos que ajuda os repórteres a seguir o dinheiro . Oferecemos acesso público a um vasto arquivo de registros governamentais e bancos de dados abertos. No entanto, grande parte do arquivo Aleph é protegido do acesso público devido a preocupações com a proteção de dados. O OCCRP concede acesso a jornalistas e ativistas caso a caso (veja abaixo).***
 
-O Aleph é mais do que apenas um buscador de documentos: ele também importa dados estruturados de planilhas e bancos de dados, permitindo que jornalistas explorem dados detalhados sobre pessoas de interesse, empresas, transações financeiras e muito mais. Repórteres e pesquisadores podem enviar seus próprios arquivos para investigações privadas, extrair texto, esboçar um diagrama, resumir suas descobertas investigativas e fazer referências cruzadas a pessoas de interesse e empresas."
+***"O Aleph é mais do que apenas um buscador de documentos: ele também importa dados estruturados de planilhas e bancos de dados, permitindo que jornalistas explorem dados detalhados sobre pessoas de interesse, empresas, transações financeiras e muito mais. Repórteres e pesquisadores podem enviar seus próprios arquivos para investigações privadas, extrair texto, esboçar um diagrama, resumir suas descobertas investigativas e fazer referências cruzadas a pessoas de interesse e empresas."***
 
-"Quais dados estão no Aleph?
-Aleph contém material de uma ampla gama de fontes . Estamos focados na coleta de dados que nos ajudarão a rastrear ativos e propriedade corporativa, gastos do governo e informações sobre indivíduos e grupos de interesse jornalístico. Também importamos arquivos vazados e dados corporativos com relevância jornalística.
+***""Quais dados estão no Aleph?
+Aleph contém material de uma ampla gama de fontes . Estamos focados na coleta de dados que nos ajudarão a rastrear ativos e propriedade corporativa, gastos do governo e informações sobre indivíduos e grupos de interesse jornalístico. Também importamos arquivos vazados e dados corporativos com relevância jornalística.***"
 
-Nosso foco geográfico é na Europa Central e Oriental, África Subsaariana, América do Sul e várias jurisdições offshore. O arquivo é construído em conjunto com nossas histórias. Frequentemente, coletamos ou indexamos material relacionado a investigações em andamento."
+Nosso foco geográfico é na Europa Central e Oriental, África Subsaariana, América do Sul e várias jurisdições offshore. O arquivo é construído em conjunto com nossas histórias. Frequentemente, coletamos ou indexamos material relacionado a investigações em andamento."***
 
 2- https://intelx.io/
 ("A Intelligence X é uma empresa europeia independente de tecnologia fundada em 2018 por Peter Kleissner. A empresa está sediada em Praga, República Tcheca. Sua missão é desenvolver e manter o mecanismo de busca e o arquivo de dados.
