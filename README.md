@@ -39,3 +39,27 @@ Você pode usar o Intelligence X para executar qualquer tipo de inteligência de
 
 
 3- https://archive.org/
+
+O Internet Archive é uma biblioteca sem fins lucrativos com milhões de livros, filmes, software, músicas, sites gratuitos e muito mais.
+
+4-  https://www.churchofjesuschrist.org/
+
+Visão geral
+A Igreja de Jesus Cristo dos Santos dos Últimos Dias é uma religião mundial com mais de 16 milhões de membros centralizada na crença de que todas as pessoas na Terra são filhos ou filhas de um Deus amoroso1 e de que Seu Filho, Jesus Cristo, salvou o mundo do pecado e da morte. Jesus Cristo convida todos os filhos de Deus a se achegarem a Ele, segui-Lo e se tornarem mais semelhantes a Ele.2
+
+A missão da Igreja
+A missão de A Igreja de Jesus Cristo dos Santos dos Últimos Dias é ajudar todos os filhos de Deus a se achegarem a Jesus Cristo3 por meio do aprendizado de Seu evangelho, de se fazer e cumprir promessas a Deus (convênios) e de se praticar o amor e o serviço cristão.4
+
+Os membros da Igreja acreditam em ajudar as pessoas e as famílias a cumprir os mandamentos de amar a Deus e amar ao próximo.5 E fazem isso ao viver o evangelho de Jesus Cristo,6 cuidar dos necessitados,7 convidar todos a receber o evangelho8 e unir as famílias por meio do trabalho de templo e história da família.9
+
+Comunidade mundial
+A Igreja tem mais de 30 mil congregações em mais de 160 países e territórios. Cada uma dessas congregações é um grupo local de membros da Igreja que servem, ensinam, inspiram e orientam uns aos outros ao se esforçarem para vencer seus desafios e suas dificuldades pessoais. Cada grupo é conduzido por líderes não remunerados10 que fazem parte da congregação e servem de maneira voluntária e por tempo limitado.
+
+A Igreja fornece recursos e programas do evangelho em mais de 110 idiomas. Ela também opera várias universidades; um programa educacional religioso para jovens e jovens adultos com mais de 400 mil matrículas em 170 países; o FamilySearch que é a maior organização genealógica do mundo; e os Serviços Humanitários da Igreja, um vasto programa de ajuda humanitária que fornece quase um bilhão de dólares anualmente em auxílio mundial. A sede mundial da Igreja localiza-se em Salt Lake City, Utah.
+
+A restauração da Igreja de Jesus Cristo
+Quando Jesus Cristo esteve na Terra, Ele estabeleceu Sua Igreja. Após Sua morte e a morte de Seus apóstolos, algumas das verdades preciosas que Ele ensinou e Sua autoridade sagrada foram perdidas por algum tempo.11 Esse período é conhecido como a Grande Apostasia.
+
+Na primavera de 1820, um rapaz chamado Joseph Smith orou a Deus com grande preocupação pela salvação de sua própria alma e para saber a qual Igreja deveria filiar-se. Deus e Jesus Cristo apareceram a Joseph12 e começaram a prepará-lo para trazer de volta (ou restaurar) as verdades preciosas e a autoridade sagrada que haviam sido perdidas da Igreja que Jesus Cristo havia organizado quando esteve na Terra. Sob a direção do Senhor, Joseph Smith organizou A Igreja de Jesus Cristo dos Santos dos Últimos Dias em 6 de abril de 1830.
+
+Por meio do poder de Deus, Joseph Smith traduziu um antigo registro escrito por profetas que viveram no continente americano e que ensinaram e testificaram a respeito de Jesus Cristo.13 Esse registro antigo é chamado de O Livro de Mórmon e caminha lado a lado com a Bíblia como um outro testamento de que Jesus Cristo é o Filho de Deus e o Salvador da humanidade.
