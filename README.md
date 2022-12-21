@@ -63,3 +63,14 @@ Quando Jesus Cristo esteve na Terra, Ele estabeleceu Sua Igreja. Após Sua morte
 Na primavera de 1820, um rapaz chamado Joseph Smith orou a Deus com grande preocupação pela salvação de sua própria alma e para saber a qual Igreja deveria filiar-se. Deus e Jesus Cristo apareceram a Joseph12 e começaram a prepará-lo para trazer de volta (ou restaurar) as verdades preciosas e a autoridade sagrada que haviam sido perdidas da Igreja que Jesus Cristo havia organizado quando esteve na Terra. Sob a direção do Senhor, Joseph Smith organizou A Igreja de Jesus Cristo dos Santos dos Últimos Dias em 6 de abril de 1830.
 
 Por meio do poder de Deus, Joseph Smith traduziu um antigo registro escrito por profetas que viveram no continente americano e que ensinaram e testificaram a respeito de Jesus Cristo.13 Esse registro antigo é chamado de O Livro de Mórmon e caminha lado a lado com a Bíblia como um outro testamento de que Jesus Cristo é o Filho de Deus e o Salvador da humanidade.
+
+5- https://epieos.com/
+
+
+***Fundada por um especialista em segurança cibernética e OSINT com mais de 10 anos de experiência, a Epieos fornece serviços de treinamento, investigação e software*** para ***organizações e indivíduos. Facilitamos seus esforços para coletar e analisar informações de código aberto.***
+
+***Particularmente investido na OSINT e nas comunidades de segurança cibernética em todo o mundo, valorizamos a transparência e o compartilhamento de conhecimento como*** ***princípios fundamentais para divulgar as técnicas OSINT. É por isso que o Epieos está hospedado na Europa e não registra nenhuma de suas pesquisas!***
+
+
+***Nosso mecanismo de pesquisa exclusivo foi projetado para ser uma maneira intuitiva de encontrar informações. Todos os meses, ajuda muitas pessoas a trabalhar em Inteligência de Ameaças Cibernéticas, lutar contra o abuso infantil, jornalismo investigativo, etc.
+Se você tiver alguma dúvida ou simplesmente quiser nos dar um feedback, não hesite em nos contatar no seguinte endereço de e-mail:***
