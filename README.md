@@ -194,4 +194,8 @@ Use nossas ferramentas flexíveis e prontas para uso para realizar o trabalho co
 Rico ecossistema de desenvolvedores
 Apify é construído em ferramentas sólidas de código aberto, então não se preocupe com o bloqueio do fornecedor. E você pode aproveitar uma próspera comunidade de Apify Freelancers e parceiros. 
 
+11- https://haveibeenpwned.com/
+
+Senhas Pwned
+Senhas Pwned são centenas de milhões de senhas do mundo real previamente expostas em violações de dados. Essa exposição os torna inadequados para uso contínuo, pois correm um risco muito maior de serem usados ​​para assumir o controle de outras contas. Eles podem ser pesquisados ​​online abaixo, bem como podem ser baixados para uso em outros sistemas online. Leia mais sobre como o HIBP protege a privacidade das senhas pesquisadas .
 
