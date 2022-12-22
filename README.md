@@ -79,3 +79,74 @@ Se você tiver alguma dúvida ou simplesmente quiser nos dar um feedback, não h
 
 É o documento que atesta o alistamento eleitoral, habilitando o cidadão ou a cidadã a exercer o direito do voto.
 
+7- https://www.dehashed.com/
+
+O que é DeHashed?
+
+DeHashed é uma ferramenta de segurança e antifraude para recuperar dados de bancos de dados hackeados publicamente disponíveis que foram tornados públicos na Internet.
+
+
+O objetivo da ferramenta é dar às pessoas a capacidade de pesquisar e descobrir se seus dados estão disponíveis online ou não para evitar fraudes ou uso indevido de suas informações por hackers.
+
+
+7- https://leakpeek.com/
+
+Dados são poder
+Somos especializados em proteger seus dados, com acesso a mais de 8 bilhões de registros públicos, ajudaremos você a encontrar as informações disponíveis para criminosos e hackers online para evitar perdas financeiras.
+
+Quem somos nós?
+Uma pequena equipe de pesquisadores e desenvolvedores com sede em Londres. O LeakPeek foi fundado com um objetivo comum de aproximar a segurança cibernética do público para garantir que mais medidas sejam tomadas para proteger nossos dados online.
+
+Incorporada em 2019, a LeakPeek Digital Security, Ltd. é uma empresa registrada no Reino Unido, garantindo que os serviços disponíveis em nosso site sejam legais e totalmente alinhados com todas as regras e regulamentos gerais de proteção de dados da UE.
+
+Ao navegar em nosso site, os clientes podem ter certeza de que a privacidade de seus dados está segura.
+
+BASEADO EM LONDRES
+
+Como funciona?
+O LeakPeek indexa informações de sites que foram invadidos e tiveram seu banco de dados vazado. Permitimos que nossos usuários pesquisem e-mails ou nomes de usuários para que possam descobrir se suas informações vazaram. Após uma pesquisa, exibimos todas as informações disponíveis desse site invadido. Todos os pontos de dados relacionados encontrados na violação são disponibilizados ao usuário para que ele possa atualizar suas informações e mantê-las fora do alcance de hackers e criminosos cibernéticos.
+
+Isso é legal?
+Uma vez que um site foi invadido e o banco de dados está nas mãos de um número de indivíduos não relacionados ao hack, ele é considerado informação pública. Como pesquisadores, temos permissão para distribuir e permitir que os usuários pesquisem suas informações, de acordo com várias decisões da Suprema Corte. Recomendamos que você verifique as leis em sua jurisdição, mas como regra geral, este site é legal na maioria dos países ocidentais, incluindo os Estados Unidos.
+
+O LeakPeek cumpre integralmente as leis das várias jurisdições em que operamos, incluindo os Estados Unidos. Só podemos fornecer orientações gerais sobre isso de nossa perspectiva. Se você tiver alguma dúvida, recomendamos que consulte especialistas jurídicos em seu próprio país.
+
+Até o momento, não recebemos nenhum pedido governamental de informações ou ordens judiciais secretas e não estamos sob nenhuma ordem judicial.
+
+
+
+
+
+Somos um site de divulgação total por isso disponibilizamos todos os dados ao usuário para que ele possa ser melhor informado sobre quais dados (e-mails, senhas, e etc) foram violados.
+
+
+O objetivo deste site é facilitar a localização de onde seus dados foram violados, vazados e têm o potencial de serem abusados.
+
+
+Não somos responsáveis ​​por qualquer vazamento de dados, nós os encontramos e alertamos os usuários gratuitamente. Para saber mais detalhes sobre uma violação específica e limitar o abuso, oferecemos um plano pago.
+
+Como utilizo esta ferramenta?
+
+A resposta é bastante simples, basta ir à página inicial, inserir sua palavra-chave e pressionar a pesquisa. (Ex: nome de usuário, IP, e-mail, nome) Em seguida, clique em pesquisar e ele executará uma pesquisa e exibirá todas as correspondências em nosso banco de dados.
+
+Que tipo de informação posso pesquisar?
+
+Você pode pesquisar por um nome, nome de usuário, e-mail, número de telefone, IP, endereço e muito mais.
+
+Como posso me remover?
+
+
+Se você deseja remover qualquer informação pessoal desta plataforma de pesquisa, use o formulário de contato e inclua nome completo, endereço, CEP, endereço de e-mail e o vazamento em que foi encontrado. ignorados porque não poderemos verificar sua identidade ou mesmo encontrar seus registros.
+
+
+As solicitações serão processadas em 10 a 15 dias após o recebimento devido a requisitos de volume e verificação manual, mas pode ser mais cedo.
+
+
+Lembre-se de que remover dados de nosso mecanismo não é seguro. Estamos aqui para mantê-lo alerta e protegido, optando por sair de nossos sistemas não irá removê-lo de outros ou bancos de dados publicados publicamente, deixando-o vulnerável.
+
+Como posso evitar que isso aconteça?
+
+A maioria dos hackers tentará usar suas senhas antigas para acessar suas contas atuais, certifique-se de se inscrever com uma senha diferente para cada site. Você pode usar aplicativos seguros de terceiros, como o LastPass, que gera automaticamente senhas complexas e as lembra para você. Os programas LastPass/Similar permitirão que você simplesmente clique em uma conta e faça o login instantaneamente sem ter que inserir seus dados manualmente. Esses programas estão disponíveis como extensões para os navegadores da Web mais populares e como aplicativos de telefone.
+
+8- 
+
