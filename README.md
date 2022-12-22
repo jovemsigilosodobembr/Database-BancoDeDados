@@ -74,3 +74,8 @@ Por meio do poder de Deus, Joseph Smith traduziu um antigo registro escrito por 
 
 ***Nosso mecanismo de pesquisa exclusivo foi projetado para ser uma maneira intuitiva de encontrar informações. Todos os meses, ajuda muitas pessoas a trabalhar em Inteligência de Ameaças Cibernéticas, lutar contra o abuso infantil, jornalismo investigativo, etc.
 Se você tiver alguma dúvida ou simplesmente quiser nos dar um feedback, não hesite em nos contatar no seguinte endereço de e-mail:***
+
+6- https://www.tse.jus.br/servicos-eleitorais/titulo-e-local-de-votacao/consulta-por-nome
+
+É o documento que atesta o alistamento eleitoral, habilitando o cidadão ou a cidadã a exercer o direito do voto.
+
