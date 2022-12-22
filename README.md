@@ -148,5 +148,15 @@ Como posso evitar que isso aconteça?
 
 A maioria dos hackers tentará usar suas senhas antigas para acessar suas contas atuais, certifique-se de se inscrever com uma senha diferente para cada site. Você pode usar aplicativos seguros de terceiros, como o LastPass, que gera automaticamente senhas complexas e as lembra para você. Os programas LastPass/Similar permitirão que você simplesmente clique em uma conta e faça o login instantaneamente sem ter que inserir seus dados manualmente. Esses programas estão disponíveis como extensões para os navegadores da Web mais populares e como aplicativos de telefone.
 
-8- 
+8- https://breachdirectory.org/
+
+SOBRE ESTE SITE
+
+POR QUE EU CRIEI ISSO?
+Criamos este site principalmente como um serviço à comunidade. Somos muito apaixonados por ciência da computação e segurança cibernética e, combinando nossas habilidades em inteligência artificial, desenvolvimento da Web e inteligência de código aberto, criamos o BreachDirectory.org. Constantemente recebemos e-mails de pessoas nos contando como os salvamos ou como este site foi útil para eles e essa é a verdadeira recompensa.
+
+COMO É QUE ESTE SITE FUNCIONA?
+Embora existam muitos outros sites que permitem que as pessoas verifiquem se foram expostas a uma violação de dados gratuitamente, o que torna o BreachDirectory.org diferente é que ele está sempre atualizado. Como a aquisição e a indexação de dados são feitas por IA em vez de manualmente, isso acontece muito mais rápido e novas violações de dados são identificadas mais rapidamente do que qualquer ser humano pode conseguir. 
+
+
 
