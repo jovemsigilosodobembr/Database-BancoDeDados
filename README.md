@@ -159,4 +159,30 @@ COMO É QUE ESTE SITE FUNCIONA?
 Embora existam muitos outros sites que permitem que as pessoas verifiquem se foram expostas a uma violação de dados gratuitamente, o que torna o BreachDirectory.org diferente é que ele está sempre atualizado. Como a aquisição e a indexação de dados são feitas por IA em vez de manualmente, isso acontece muito mais rápido e novas violações de dados são identificadas mais rapidamente do que qualquer ser humano pode conseguir. 
 
 
+9- leakcheck.net
+
+1.1. Site - site(s) disponível(is) na Internet nos endereços: leakcheck.net, leakcheck.io;
+1.2. Usuário - pessoa física que atua a título pessoal ou como representante de pessoa jurídica, visitando os Sites ou utilizando o Serviço de forma plena ou em suas funções individuais, a título oneroso ou gratuito;
+1.3. Administração é o operador e/ou proprietário do Site, pessoa jurídica LeakCheck Security Services, Ltd. devidamente registrada sob as leis do Reino Unido. (nº 12101959) ou seu sucessor, bem como pessoas devidamente autorizadas a representar interesses em seu nome;
+1.4. Telegramaé um serviço de mensagens disponível através de aplicativos oficiais para Android e iOS, software para sistemas operacionais Windows, macOS e Linux e interfaces web disponíveis em: https://telegram.org/dl/webz e https://telegram.org/dl/ webk;
+1.5. Bot é um aplicativo de administração disponível publicamente para usuários por meio do Telegram e gerenciado usando solicitações HTTPS para a API Bot fornecida pela Telegram Messengers Inc.;
+1.6. Vazamento - incidente em que dados foram expostos inadvertidamente em sistema informatizado, devido à insuficiência de controles de acesso, segurança ou outras ações causadas por negligência ou dolo de terceiros.
+1.7. Serviço- um Site e um Bot dentro do significado desta Seção, fornecendo, mediante solicitação do Usuário, informações (dados) de fontes publicamente disponíveis sobre os Vazamentos ocorridos em recursos ou serviços da web de terceiros. O serviço agrega vazamentos e ajuda as pessoas a avaliar se seus dados pessoais foram expostos e onde.
+1.8. Conta - uma conta do Usuário do Site, necessária para acessar o uso do Serviço de forma onerosa e é criada por ele de forma independente, criando um nome de usuário, senha e especificando um endereço de e-mail válido no Site ou usando o Bot;
+1.9. Termos de Uso - um contrato de licença entre a Administração e o Usuário para o uso do Serviço.
+1.10 . Plano- a taxa de licença de uso do Serviço, descrevendo os termos aplicáveis, liquidação das taxas de licença e restrições estabelecidas pela Administração.
+1.11 . Estes Termos de Uso estabelecem e regem:
+• a relação entre os Usuários e a Administração;
+• os direitos e obrigações dos Usuários, bem como métodos, restrições e proibições ao usar o Serviço e as informações obtidas por meio dele;
+• os direitos e obrigações da Administração, bem como em relação ao cumprimento dos Termos de Uso;
+• considerações financeiras, em particular liquidação das taxas de licença para usar o Serviço.
+1.12. A Administração oferece ao Usuário o uso do Serviço nos seguintes termos. De acordo com os Termos de Uso, a Administração concede ao Usuário o direito de utilizar o Serviço exclusivamente para uso pessoal mediante pagamento revogável, gratuito ou mediante pagamento de licença, caso o Usuário tenha optado por um Plano pago, não -licença exclusiva, perpétua e mundial.
+1.13 . Ao utilizar o Serviço ou suas funções individuais, o Usuário concorda em cumprir estes Termos de Uso, bem como outros termos indicados na interface do Serviço, na íntegra e sem quaisquer reservas ou exclusões.
+1.14 . Caso o Usuário discorde do conteúdo destes Termos de Uso, total ou parcialmente, o Usuário não tem o direito de usar o Serviço e é obrigado a interromper imediatamente o uso do mesmo.
+1.15. O Usuário concorda em cumprir todas as leis e regulamentos aplicáveis ​​e assume a responsabilidade pelo cumprimento de quaisquer leis locais aplicáveis ​​ao usar o Serviço. O Utilizador é o único responsável perante terceiros pelas suas ações relacionadas com a utilização do Serviço, incluindo se tais ações conduzirem à violação dos direitos e interesses legítimos de terceiros, bem como pelo cumprimento da lei na utilização do Serviço.
+1.16 . Somente o Usuário que atingiu a maioridade legal estabelecida pela lei aplicável tem o direito de criar uma Conta e usar o Serviço de forma independente. Caso o Utilizador não tenha atingido a idade indicada, bem como nos casos previstos na legislação aplicável, a utilização do Serviço é permitida apenas com o consentimento dos pais ou outros representantes legais.
+1.17. O Serviço fornece, por meio de um mecanismo de busca próprio, acesso a um banco de dados contendo informações obtidas de fontes abertas de informação sobre fatos comuns, publicados de vazamentos de dados de usuários ou que sejam de domínio público. O Site e o Bot agregam e indexam essas informações de fontes de informações publicamente disponíveis.
+1.18 . Ao aderir a estes Termos, o Usuário está ciente e concorda que a Administração não se responsabiliza pela divulgação de informações recebidas por meio do Serviço sobre fatos de vazamentos de dados de usuários ocorridos em decorrência de ações ou omissões de terceiros.
+1.19. O Usuário está ciente de que a Administração não tem autoridade, obrigações contratuais ou obrigações decorrentes da lei para excluir ou de qualquer outra forma restringir o acesso às informações exibidas nos resultados da pesquisa do Site ou na resposta do Bot ao Solicitações do usuário. A Administração pode apagar as informações exibidas nos resultados de pesquisa dos Serviços após o recebimento da solicitação do Usuário relevante. Os usuários que desejam apagar informações de recursos ou serviços da Web de terceiros ou reparar danos devem se dirigir diretamente a terceiros com uma reclamação relevante.
+1.20 . Todas as funções atualmente existentes do Site ou Bots, bem como quaisquer melhorias dos mesmos e/ou a adição de novas, são objeto destes Termos de Uso.
 
