@@ -159,7 +159,7 @@ COMO É QUE ESTE SITE FUNCIONA?
 Embora existam muitos outros sites que permitem que as pessoas verifiquem se foram expostas a uma violação de dados gratuitamente, o que torna o BreachDirectory.org diferente é que ele está sempre atualizado. Como a aquisição e a indexação de dados são feitas por IA em vez de manualmente, isso acontece muito mais rápido e novas violações de dados são identificadas mais rapidamente do que qualquer ser humano pode conseguir. 
 
 
-9- leakcheck.net
+9-  https://leakcheck.net
 
 1.1. Site - site(s) disponível(is) na Internet nos endereços: leakcheck.net, leakcheck.io;
 1.2. Usuário - pessoa física que atua a título pessoal ou como representante de pessoa jurídica, visitando os Sites ou utilizando o Serviço de forma plena ou em suas funções individuais, a título oneroso ou gratuito;
@@ -185,4 +185,13 @@ Embora existam muitos outros sites que permitem que as pessoas verifiquem se for
 1.18 . Ao aderir a estes Termos, o Usuário está ciente e concorda que a Administração não se responsabiliza pela divulgação de informações recebidas por meio do Serviço sobre fatos de vazamentos de dados de usuários ocorridos em decorrência de ações ou omissões de terceiros.
 1.19. O Usuário está ciente de que a Administração não tem autoridade, obrigações contratuais ou obrigações decorrentes da lei para excluir ou de qualquer outra forma restringir o acesso às informações exibidas nos resultados da pesquisa do Site ou na resposta do Bot ao Solicitações do usuário. A Administração pode apagar as informações exibidas nos resultados de pesquisa dos Serviços após o recebimento da solicitação do Usuário relevante. Os usuários que desejam apagar informações de recursos ou serviços da Web de terceiros ou reparar danos devem se dirigir diretamente a terceiros com uma reclamação relevante.
 1.20 . Todas as funções atualmente existentes do Site ou Bots, bem como quaisquer melhorias dos mesmos e/ou a adição de novas, são objeto destes Termos de Uso.
+
+10 - https://apify.com/
+
+A mais poderosa plataforma de web scraping e automação
+Use nossas ferramentas flexíveis e prontas para uso para realizar o trabalho com rapidez e precisão. Ou conte com os especialistas da Apify para resolver e manter seu caso de uso exclusivo.
+
+Rico ecossistema de desenvolvedores
+Apify é construído em ferramentas sólidas de código aberto, então não se preocupe com o bloqueio do fornecedor. E você pode aproveitar uma próspera comunidade de Apify Freelancers e parceiros. 
+
 
