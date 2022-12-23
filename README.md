@@ -199,3 +199,15 @@ Apify é construído em ferramentas sólidas de código aberto, então não se p
 Senhas Pwned
 Senhas Pwned são centenas de milhões de senhas do mundo real previamente expostas em violações de dados. Essa exposição os torna inadequados para uso contínuo, pois correm um risco muito maior de serem usados ​​para assumir o controle de outras contas. Eles podem ser pesquisados ​​online abaixo, bem como podem ser baixados para uso em outros sistemas online. Leia mais sobre como o HIBP protege a privacidade das senhas pesquisadas .
 
+12- https://ngrok.com/
+
+O ngrok fornece entrada instantânea para seus aplicativos em
+qualquer nuvem , rede privada ou dispositivos
+com autenticação, balanceamento de carga e outros controles críticos.
+
+Colocar localhost na internet
+ngrok é a maneira mais rápida de colocar seu aplicativo na internet. Teste aplicativos móveis em seu back-end de desenvolvimento. Crie consumidores de webhook e sites de demonstração sem implantar.
+
+Conecte-se a redes sem problemas
+Sem encaminhamento de porta, sem DNS dinâmico, sem VPN. Acesse dispositivos IoT no campo. Conecte-se ao software de nuvem privada de seus clientes em segundos.
+
