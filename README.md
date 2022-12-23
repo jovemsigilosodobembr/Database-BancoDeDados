@@ -211,3 +211,7 @@ ngrok é a maneira mais rápida de colocar seu aplicativo na internet. Teste apl
 Conecte-se a redes sem problemas
 Sem encaminhamento de porta, sem DNS dinâmico, sem VPN. Acesse dispositivos IoT no campo. Conecte-se ao software de nuvem privada de seus clientes em segundos.
 
+
+13- https://www.mindmeister.com/
+
+Criar e organizar Mapas mentais online
